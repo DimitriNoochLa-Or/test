@@ -1,4 +1,6 @@
-$('#myModal').modal(options)
+$('#myModal').modal(options){
+	
+}
 // carousel
 $('.carousel').carousel({
   interval: 2000
